@@ -1,0 +1,14 @@
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.AssemblyInfoInputs.cache
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.AssemblyInfo.cs
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.csproj.CoreCompileInputs.cache
+C:\Users\cjh\source\repos\ProjSR\bin\Debug\net8.0\CJH_Frame.exe
+C:\Users\cjh\source\repos\ProjSR\bin\Debug\net8.0\CJH_Frame.deps.json
+C:\Users\cjh\source\repos\ProjSR\bin\Debug\net8.0\CJH_Frame.runtimeconfig.json
+C:\Users\cjh\source\repos\ProjSR\bin\Debug\net8.0\CJH_Frame.dll
+C:\Users\cjh\source\repos\ProjSR\bin\Debug\net8.0\CJH_Frame.pdb
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.dll
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\refint\CJH_Frame.dll
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.pdb
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\CJH_Frame.genruntimeconfig.cache
+C:\Users\cjh\source\repos\ProjSR\obj\Debug\net8.0\ref\CJH_Frame.dll
