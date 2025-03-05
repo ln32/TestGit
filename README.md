@@ -7,3 +7,13 @@
 3.4 CRTP 구조 공부
 
 3.5 전투 상태 핸들러 구현
+
+
+
+
+
+ref
+
+https://cppmagister.tistory.com/28
+
+https://dev-junwoo.tistory.com/149
